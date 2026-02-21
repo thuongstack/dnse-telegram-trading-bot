@@ -28,6 +28,22 @@ Hỗ trợ giải mã bằng OpenSSL
 
 ## 🚀 Cài đặt
 
-git clone https://github.com/yourname/dnse-telegram-bot.git
-cd dnse-telegram-bot
+### 1. Clone repo
+#### git clone https://github.com/yourname/dnse-telegram-bot.git
+#### cd dnse-telegram-bot
+
+### 2. Cài thư viện
+
+#### pip install -r requirements.txt
+
+### 3. Tạo file .env
+
+#### cp .env.example .env
+#### nano .env
+
+### ▶️ Chạy bot
+#### python3 bot_dnse.py
+
+
+
 
