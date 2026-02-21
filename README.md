@@ -1,5 +1,4 @@
-## cài đặt tạo ken
-
+# 📌 DNSE Telegram Trading Bot
 
 Telegram bot tích hợp DNSE API để:
 
@@ -15,7 +14,7 @@ Restart bot từ xa
 
 Giải mã API bằng OpenSSL
 
-🔐 Bảo mật
+## 🔐 Bảo mật
 
 Không lưu API key plaintext trên GitHub
 
@@ -27,7 +26,7 @@ Giới hạn AUTHORIZED_CHAT_ID
 
 Hỗ trợ giải mã bằng OpenSSL
 
-🚀 Cài đặt
+## 🚀 Cài đặt
 
 git clone https://github.com/yourname/dnse-telegram-bot.git
 cd dnse-telegram-bot
